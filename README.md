@@ -7,7 +7,6 @@ Welcome to the Tic Tac Toe game built with Python and Tkinter! This classic game
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Code Explanation](#code-explanation)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Features
@@ -70,10 +69,6 @@ This project is structured using functions to handle different parts of the game
 - **Yellow**: `#ffde57` - Used to indicate the winner and for tie messages.
 - **Gray**: `#343434` - The background color of the game board.
 - **Light Gray**: `#646464` - The background color of winning marks.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
